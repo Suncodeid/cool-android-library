@@ -11,10 +11,13 @@ Cool list libraries android developers.
 ### Frogo Android Library
 | No | Name       | Language    |Type    | Link                               |
 |----|------------|-------------|--------|------------------------------------|
-| 1.  | frogo-recycler-view | Java/Kotlin | UI Widget | https://github.com/amirisback/frogo-recycler-view |
-| 2.  | frogo-notification | Java/Kotlin | Util | https://github.com/amirisback/frogo-notification |
-| 3.  | frogo-ui-kit | Java/Kotlin | Resources | https://github.com/amirisback/frogo-ui-kit |
-| 4.  | frogo-admob-helper | Java/Kotlin | Util | https://github.com/amirisback/frogo-admob-helper |
+| 1.  | frogo-sdk | Java/Kotlin | SDK | https://github.com/amirisback/frogo-sdk |
+| 2.  | frogo-ui-kit | Java/Kotlin | Resources | https://github.com/amirisback/frogo-ui-kit |
+| 3.  | frogo-recycler-view | Java/Kotlin | UI Widget | https://github.com/amirisback/frogo-recycler-view |
+| 4.  | frogo-notification | Java/Kotlin | Util | https://github.com/amirisback/frogo-notification |
+| 5.  | frogo-admob-helper | Java/Kotlin | Util | https://github.com/amirisback/frogo-admob-helper |
+| 6.  | frogo-log | Java/Kotlin | Util | https://github.com/amirisback/frogo-log |
+| 7.  | frogo-toast | Java/Kotlin | Util | https://github.com/amirisback/frogo-toast |
 
 ### Consumable Code Library
 | No | Name       | Language    |Type    | Link                               |
@@ -24,6 +27,9 @@ Cool list libraries android developers.
 | 3. | consumable-code-movie-tmdb-api | Java/Kotlin | Data | https://github.com/amirisback/consumable-code-movie-tmdb-api |
 | 4. | consumable-code-pixabay-api | Java/Kotlin | Data | https://github.com/amirisback/consumable-code-pixabay-api |
 | 5. | consumable-code-the-meal-db-api | Java/Kotlin | Data | https://github.com/amirisback/consumable-code-the-meal-db-api |
+| 6. | consumable-code-the-cocktail-db-api| Java/Kotlin | Data | https://github.com/amirisback/consumable-code-the-cocktail-db-api |
+| 7. | consumable-code-the-audio-db-api| Java/Kotlin | Data | https://github.com/amirisback/consumable-code-the-audio-db-api |
+| 8. | consumable-code-covid-19-api| Java/Kotlin | Data | https://github.com/amirisback/consumable-code-covid-19-api |
 
 ## Doing task
 - Find TODO list on issue
