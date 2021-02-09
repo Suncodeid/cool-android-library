@@ -2,9 +2,26 @@
 Cool list libraries android developers.
 
 ## Table Of Content
+
+### Network library
 | No  | Name       | Language    | Type    | Link                               |
 | --- | ---------- | ----------- | ------- | ---------------------------------- |
-| 1.  | Retrofit 2 | Java/Kotlin | Network | https://github.com/square/retrofit |
+| 1.  | Retrofit 2 | Java/Kotlin | Network | [Click Here](https://github.com/square/retrofit) |
+| 2.  | okhttp     | Java/Kotlin | Network | [Click Here](https://github.com/square/okhttp)   |
+
+### Chart library
+| No  | Name       | Language    | Type    | Link                               |
+| --- | ---------- | ----------- | ------- | ---------------------------------- |
+| 1.  | MPAndroidChart | Java/Kotlin | Util/UI Widget | [Click Here](https://github.com/PhilJay/MPAndroidChart) |
+| 2.  | AnyChart     | Java/Kotlin | Util/UI Widget | [Click Here](https://github.com/AnyChart/AnyChart-Android)   |
+| 3.  | HelloChart     | Java/Kotlin | Util/UI Widget | [Click Here](https://github.com/lecho/hellocharts-android)   |
+
+### Image library
+| No  | Name       | Language    | Type    | Link                               |
+| --- | ---------- | ----------- | ------- | ---------------------------------- |
+| 1.  | Glide | Java/Kotlin | Util | [Click Here](https://github.com/bumptech/glide) |
+| 2.  | Picasso     | Java/Kotlin | Util | [Click Here](https://github.com/square/picasso)   |
+| 3.  | CircleImageView     | Java/Kotlin | UI Widget | [Click Here](https://github.com/hdodenhof/CircleImageView)   |
 
 ## Made By Contributor
 
@@ -30,26 +47,6 @@ Cool list libraries android developers.
 | 6.  | consumable-code-the-cocktail-db-api | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-the-cocktail-db-api) |
 | 7.  | consumable-code-the-audio-db-api    | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-the-audio-db-api)    |
 | 8.  | consumable-code-covid-19-api        | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-covid-19-api)        |
-
-### Network library
-| No  | Name       | Language    | Type    | Link                               |
-| --- | ---------- | ----------- | ------- | ---------------------------------- |
-| 1.  | Retrofit 2 | Java/Kotlin | Network | [Click Here](https://github.com/square/retrofit) |
-| 2.  | okhttp     | Java/Kotlin | Network | [Click Here](https://github.com/square/okhttp)   |
-
-### Chart library
-| No  | Name       | Language    | Type    | Link                               |
-| --- | ---------- | ----------- | ------- | ---------------------------------- |
-| 1.  | MPAndroidChart | Java/Kotlin | Util/UI Widget | [Click Here](https://github.com/PhilJay/MPAndroidChart) |
-| 2.  | AnyChart     | Java/Kotlin | Util/UI Widget | [Click Here](https://github.com/AnyChart/AnyChart-Android)   |
-| 3.  | HelloChart     | Java/Kotlin | Util/UI Widget | [Click Here](https://github.com/lecho/hellocharts-android)   |
-
-### Image library
-| No  | Name       | Language    | Type    | Link                               |
-| --- | ---------- | ----------- | ------- | ---------------------------------- |
-| 1.  | Glide | Java/Kotlin | Util | [Click Here](https://github.com/bumptech/glide) |
-| 2.  | Picasso     | Java/Kotlin | Util | [Click Here](https://github.com/square/picasso)   |
-| 3.  | CircleImageView     | Java/Kotlin | UI Widget | [Click Here](https://github.com/hdodenhof/CircleImageView)   |
 
 
 ## Doing task
